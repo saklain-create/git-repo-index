@@ -21,3 +21,12 @@ https://github.com/saklain-create/awesome-cloudflare
 
 ### web.scraper.workers.dev
 https://github.com/saklain-create/web.scraper.workers.dev
+
+### workers-rs
+https://github.com/cloudflare/workers-rs
+
+
+## YARTCH 
+
+### https://github.com/Deanosim/docker-templates-shipwright/raw/main/templates/docker-templates-shipwright-yacht.json
+
