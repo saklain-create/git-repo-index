@@ -17,7 +17,7 @@ https://github.com/saklain-create/awesome-selfhosted
 ## CLOUDFLARE
 
 ### awesome-cloudflare
-https://github.com/saklain-create/awesome-cloudflare
+https://github.com/irazasyed/awesome-cloudflare
 
 ### web.scraper.workers.dev
 https://github.com/saklain-create/web.scraper.workers.dev
