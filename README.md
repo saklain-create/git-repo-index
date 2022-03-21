@@ -1,9 +1,8 @@
-# Awsome-git-repo
+# Awesome-Git-repo [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="media/cf-logo.svg" width="250" align="right" alt="Awesome-Git-repo">](https://www.cloudflare.com)
 
-## useful Git-repo collection of repositry
+> Curated list of awesome Github Repo
 
-### `    `overview of the File Structre
-
+This repo contains github repositary to master, Build, your carer, project 
 
 | File        | Purpose                                                            |
 | ------------- | :------------------------------------------------------------------- |
