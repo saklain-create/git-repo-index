@@ -1,4 +1,5 @@
-## FOSS Alternative 
+## FOSS Alternative
 
-    awesome-oss-alternatives
+### [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+
     https://github.com/RunaCapital/awesome-oss-alternatives
